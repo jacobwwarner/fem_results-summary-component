@@ -64,4 +64,4 @@ He's helped me appreciate the capabilities of standard CSS when compared to a ut
 development framework like Bootstrap or Tailwind.css
 
 - YouTube Channel: (https://www.youtube.com/@KevinPowell)
-- Video Link: (https://www.youtube.com/watch?v=KqFAs5d3Yl8&list=PLj9yuxiALbMqB9h8WRNlkP286t2hmCd5V&index=2&t=125s)
+- Video Link: (https://www.frontendmentor.io/solutions/results-component-using-bem-and-mixing-flex-and-grid-6bOcDhMoam)
